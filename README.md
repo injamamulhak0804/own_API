@@ -7,4 +7,4 @@
 
 API => 👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-url: 
+url: https://injamamulhak0804.github.io/own_API/data.json
